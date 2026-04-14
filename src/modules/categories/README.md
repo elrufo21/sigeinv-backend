@@ -219,3 +219,9 @@ Respuestas de error:
 4. Exponer endpoint en `categories.controller.js`.
 5. Registrar ruta en `category.routes.js`.
 6. Verificar que errores salgan por `error.middleware.js`.
+
+## Endpoint productos.
+
+### Tener en cuenta que:
+
+1. Los modelos ya los tenemos creados, guiardos a base de ahi.
